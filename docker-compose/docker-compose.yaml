@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  poc-process-batch-db:
+    image: mysql:5.7
+    command: --innodb-use-native-aio=0
+    container_name: poc-process-batch-db
+    tty: true
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mysql:/var/lib/mysql
+    environment:
+      - MYSQL_DATABASE=poc_process_batch
+      - MYSQL_ROOT_PASSWORD=root
