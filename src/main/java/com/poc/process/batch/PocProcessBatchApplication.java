@@ -1,4 +1,4 @@
-package pocprocessbatch;
+package com.poc.process.batch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

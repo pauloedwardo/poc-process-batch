@@ -1,13 +1,8 @@
-package pocprocessbatch;
+package com.poc.process.batch;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class PocProcessBatchApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
 
 }
