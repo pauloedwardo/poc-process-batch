@@ -37,35 +37,35 @@ Full log execution:
 2021-10-10 22:57:40.398  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=2, firstName='nome 2', lastName='last 2', email='email2@gmail.com', age=2}
 2021-10-10 22:57:40.398  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=3, firstName='nome 3', lastName='last 3', email='email3', age=3}
 2021-10-10 22:57:40.398  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=3, firstName='nome 3', lastName='last 3', email='email3@gmail.com', age=3}
-2021-10-10 22:57:40.398  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Salving...
+2021-10-10 22:57:40.398  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Saving...
 2021-10-10 22:57:40.480  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=4, firstName='nome 4', lastName='last 4', email='email4', age=4}
 2021-10-10 22:57:40.480  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=4, firstName='nome 4', lastName='last 4', email='email4@gmail.com', age=4}
 2021-10-10 22:57:40.480  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=5, firstName='nome 5', lastName='last 5', email='email5', age=5}
 2021-10-10 22:57:40.480  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=5, firstName='nome 5', lastName='last 5', email='email5@gmail.com', age=5}
 2021-10-10 22:57:40.481  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=6, firstName='nome 6', lastName='last 6', email='email6', age=6}
 2021-10-10 22:57:40.481  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=6, firstName='nome 6', lastName='last 6', email='email6@gmail.com', age=6}
-2021-10-10 22:57:40.481  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Salving...
+2021-10-10 22:57:40.481  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Saving...
 2021-10-10 22:57:40.548  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=7, firstName='nome 7', lastName='last 7', email='email7', age=7}
 2021-10-10 22:57:40.548  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=7, firstName='nome 7', lastName='last 7', email='email7@gmail.com', age=7}
 2021-10-10 22:57:40.548  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=8, firstName='nome 8', lastName='last 8', email='email8', age=8}
 2021-10-10 22:57:40.548  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=8, firstName='nome 8', lastName='last 8', email='email8@gmail.com', age=8}
 2021-10-10 22:57:40.548  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=9, firstName='nome 9', lastName='last 9', email='email9', age=9}
 2021-10-10 22:57:40.548  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=9, firstName='nome 9', lastName='last 9', email='email9@gmail.com', age=9}
-2021-10-10 22:57:40.548  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Salving...
+2021-10-10 22:57:40.548  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Saving...
 2021-10-10 22:57:40.616  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=10, firstName='nome 10', lastName='last 10', email='email10', age=10}
 2021-10-10 22:57:40.616  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=10, firstName='nome 10', lastName='last 10', email='email10@gmail.com', age=10}
 2021-10-10 22:57:40.616  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=11, firstName='nome 11', lastName='last 11', email='email11', age=11}
 2021-10-10 22:57:40.616  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=11, firstName='nome 11', lastName='last 11', email='email11@gmail.com', age=11}
 2021-10-10 22:57:40.616  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=12, firstName='nome 12', lastName='last 12', email='email12', age=12}
 2021-10-10 22:57:40.616  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=12, firstName='nome 12', lastName='last 12', email='email12@gmail.com', age=12}
-2021-10-10 22:57:40.616  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Salving...
+2021-10-10 22:57:40.616  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Saving...
 2021-10-10 22:57:40.684  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=13, firstName='nome 13', lastName='last 13', email='email13', age=13}
 2021-10-10 22:57:40.684  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=13, firstName='nome 13', lastName='last 13', email='email13@gmail.com', age=13}
 2021-10-10 22:57:40.684  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=14, firstName='nome 14', lastName='last 14', email='email14', age=14}
 2021-10-10 22:57:40.684  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=14, firstName='nome 14', lastName='last 14', email='email14@gmail.com', age=14}
 2021-10-10 22:57:40.684  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person: Person{personId=15, firstName='nome 15', lastName='last 15', email='email15', age=15}
 2021-10-10 22:57:40.685  INFO 65163 --- [   scheduling-1] c.p.p.batch.steps.PersonItemProcessor    : Person after process: Person{personId=15, firstName='nome 15', lastName='last 15', email='email15@gmail.com', age=15}
-2021-10-10 22:57:40.685  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Salving...
+2021-10-10 22:57:40.685  INFO 65163 --- [   scheduling-1] c.poc.process.batch.steps.PersonWriter   : Saving...
 2021-10-10 22:57:40.846  INFO 65163 --- [   scheduling-1] o.s.batch.core.step.AbstractStep         : Step: [processPersonStep] executed in 548ms
 2021-10-10 22:57:40.998  INFO 65163 --- [   scheduling-1] o.s.b.c.l.support.SimpleJobLauncher      : Job: [SimpleJob: [name=personProcessJob]] completed with the following parameters: [{time=1633917460001}] and the following status: [COMPLETED] in 801ms
 2021-10-10 22:57:40.998  INFO 65163 --- [   scheduling-1] c.p.p.batch.config.BatchSchedulerConfig  : Job's Status:::COMPLETED

@@ -13,6 +13,6 @@ public class PersonWriter implements ItemWriter<Person> {
 
     @Override
     public void write(List<? extends Person> items) throws Exception {
-        LOG.info("Salving...");
+        LOG.info("Saving...");
     }
 }
